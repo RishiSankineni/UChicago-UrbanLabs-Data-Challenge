@@ -1,6 +1,14 @@
 # University-of-Chicago-UrbanLabs-Data-Challenge
 Data Challenge- Data Scientist position
 
+
+## UChicago Urban Labs
+
+Cities fuel remarkable economic, social, educational and cultural progress.  At the same time, cities amplify and concentrate dire social problems. The University of Chicago Urban Labs works to address challenges across five key dimensions of urban life: crime, education, health, poverty, and energy & environment. They partner with civic and community leaders to identify, test, and help scale the programs and policies with the greatest potential to improve human lives.
+
+“There is still a great amount of work needed to solve the problems that cities face. Urban Labs uses science, data, and evidence-based programs to inform and develop urban policy for the biggest impact possible.” - Nutter
+
+
 ## Background
 
 In January 2012, the Cook County State’s Attorney’s Office established a program intended to reduce re-arrest among people on bail awaiting trial. The program ran through October 2013. The SA’s Office asked you to evaluate the effectiveness of the program and provided the data described below. The person who created the program left, so we know little about how people were assigned to the program, but we do know assignment was done independently at each arrest. This means that it’s possible that someone arrested multiple times could have been referred to the program on some occasions but not on others.
